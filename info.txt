@@ -1,3 +1,0 @@
-Make sure to use
- #!/usr/bin/env python3  .... if python3 is used. gethostname() gives you the IP address like 192.168.1.124 but loopback address is 127.0.0.1 
-In case of manual input can either give both 127.0.0.1 or the address got by ipconfig/ifconfig.
